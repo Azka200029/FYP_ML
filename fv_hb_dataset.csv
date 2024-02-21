@@ -1,0 +1,413 @@
+Id,Name,Pregnant,Age,Location,Blood Group,HB,FileName
+1,Noreena,1.0,28.0,Haripur,,11.4,1_noreena_1.mp4
+1,Noreena,1.0,28.0,Haripur,,11.4,1_noreena_2.mp4
+2,Basmeena,1.0,30.0,Haripur,,11.5,2_basmeena_1.mp4
+2,Basmeena,1.0,30.0,Haripur,,11.5,2_basmeena_2.mp4
+3,Maria,1.0,35.0,Haripur,AB+ve,10.7,3_maria_1.mp4
+3,Maria,1.0,35.0,Haripur,AB+ve,10.7,3_maria_2.mp4
+4,Naseema,1.0,27.0,Haripur,,10.6,4_naseema_1.mp4
+4,Naseema,1.0,27.0,Haripur,,10.6,4_naseema_2.mp4
+5,Saima,0.0,2.0,Haripur,B+ve,11.5,5_saima_1.mp4
+5,Saima,0.0,2.0,Haripur,B+ve,11.5,5_saima_2.mp4
+6,Sadaf,1.0,34.0,Haripur,O+ve,12.0,6_sadaf_1.mp4
+6,Sadaf,1.0,34.0,Haripur,O+ve,12.0,6_sadaf_2.mp4
+7,Sania,1.0,23.0,Haripur,O+ve,10.3,7_sania_1.mp4
+7,Sania,1.0,23.0,Haripur,O+ve,10.3,7_sania_2.mp4
+8,Zahida,0.0,15.0,Haripur,,13.9,8_zahida_1.mp4
+8,Zahida,0.0,15.0,Haripur,,13.9,8_zahida_2.mp4
+9,Rozi,1.0,32.0,Kholia Balla,O-ve,12.6,9_rozi_1.mp4
+9,Rozi,1.0,32.0,Kholia Balla,O-ve,12.6,9_rozi_2.mp4
+10,Rozeeka,1.0,20.0,Haripur,B+ve,12.3,10_rozeeka_1.mp4
+10,Rozeeka,1.0,20.0,Haripur,B+ve,12.3,10_rozeeka_2.mp4
+11,Faiza,1.0,22.0,Haripur,,12.0,11_faiza_1.mp4
+11,Faiza,1.0,22.0,Haripur,,12.0,11_faiza_2.mp4
+12,Sana,1.0,31.0,Haripur,A+ve,9.0,12_sana_1.mp4
+12,Sana,1.0,31.0,Haripur,A+ve,9.0,12_sana_2.mp4
+13,Hurain,0.0,5.0,Haripur,,11.9,13_hurain_1.mp4
+13,Hurain,0.0,5.0,Haripur,,11.9,13_hurain_2.mp4
+14,Razia,1.0,27.0,Haripur,B+ve,9.0,14_razia_1.mp4
+14,Razia,1.0,27.0,Haripur,B+ve,9.0,14_razia_2.mp4
+15,Yasmeen,1.0,26.0,Haripur,AB+ve,9.9,15_yasmeen_1.mp4
+15,Yasmeen,1.0,26.0,Haripur,AB+ve,9.9,15_yasmeen_2.mp4
+16,Laraib,1.0,18.0,Haripur,O+ve,9.6,16_laraib_1.mp4
+16,Laraib,1.0,18.0,Haripur,O+ve,9.6,16_laraib_2.mp4
+17,Zaitoon,1.0,24.0,Haripur,,7.8,17_zaitoon_1.mp4
+17,Zaitoon,1.0,24.0,Haripur,,7.8,17_zaitoon_2.mp4
+18,Alishba,1.0,21.0,Haripur,A+ve,8.0,18_alishba_1.mp4
+18,Alishba,1.0,21.0,Haripur,A+ve,8.0,18_alishba_2.mp4
+19,Ambreen,,,Haripur,,11.5,19_ambreen_1.mp4
+19,Ambreen,,,Haripur,,11.5,19_ambreen_2.mp4
+20,Abida,,,Haripur,,10.8,20_abida_1.mp4
+20,Abida,,,Haripur,,10.8,20_abida_2.mp4
+21,Ahtisham,,,Haripur,,14.6,21_ahtisham_1.mp4
+21,Ahtisham,,,Haripur,,14.6,21_ahtisham_2.mp4
+22,Nosheen,,,Haripur,,7.7,22_nosheen_1.mp4
+22,Nosheen,,,Haripur,,7.7,22_nosheen_2.mp4
+23,Reema,,,Haripur,B+ve,12.4,23_reema_1.mp4
+23,Reema,,,Haripur,B+ve,12.4,23_reema_2.mp4
+24,Arzu,,,Haripur,,9.4,24_arzu_1.mp4
+24,Arzu,,,Haripur,,9.4,24_arzu_2.mp4
+25,Dilshad,,,Haripur,A+ve,10.1,25_dilshad_1.mp4
+25,Dilshad,,,Haripur,A+ve,10.1,25_dilshad_2.mp4
+26,Maryam,,,Haripur,A+ve,9.3,26_maryam_1.mp4
+26,Maryam,,,Haripur,A+ve,9.3,26_maryam_2.mp4
+27,Shazia,,,Haripur,,7.4,27_shazia_1.mp4
+27,Shazia,,,Haripur,,7.4,27_shazia_2.mp4
+28,Sana,,,Haripur,,11.4,28_sana_1.mp4
+28,Sana,,,Haripur,,11.4,28_sana_2.mp4
+29,Aliza,,,Haripur,,9.1,29_aliza_1.mp4
+29,Aliza,,,Haripur,,9.1,29_aliza_2.mp4
+30,Shazia Naz,,,Haripur,,9.1,30_shazianaz_1.mp4
+30,Shazia Naz,,,Haripur,,9.1,30_shazianaz_2.mp4
+31,Shagofta,,,Haripur,,12.1,31_shagofta_1.mp4
+31,Shagofta,,,Haripur,,12.1,31_shagofta_2.mp4
+32,Zamorad Khan,,,Haripur,,12.5,32_zamrodkhan_1.mp4
+32,Zamorad Khan,,,Haripur,,12.5,32_zamrodkhan_2.mp4
+33,Sakina,,,Haripur,,11.4,33_sakina_1.mp4
+33,Sakina,,,Haripur,,11.4,33_sakina_2.mp4
+34,Abida Parween,,,Haripur,A+ve,11.5,34_abidaparween_1.mp4
+34,Abida Parween,,,Haripur,A+ve,11.5,34_abidaparween_2.mp4
+35,Ranssa,,,Haripur,,11.5,35_ranssa_1.mp4
+35,Ranssa,,,Haripur,,11.5,35_ranssa_2.mp4
+36,Andleep,,,Haripur,,9.4,36_andeleep_1.mp4
+36,Andleep,,,Haripur,,9.4,36_andeleep_2.mp4
+37,Hajra,,,Haripur,,10.4,37_hajra_1.mp4
+37,Hajra,,,Haripur,,10.4,37_hajra_2.mp4
+38,Aliya,,,Haripur,,10.7,38_aliya_1.mp4
+38,Aliya,,,Haripur,,10.7,38_aliya_2.mp4
+39,Azra,,,Haripur,,12.2,39_azrah_1.mp4
+39,Azra,,,Haripur,,12.2,39_azrah_2.mp4
+40,Shabnam,,,Haripur,,12.1,40_shabnam_1.mp4
+40,Shabnam,,,Haripur,,12.1,40_shabnam_2.mp4
+41,Tayyaba,,,Haripur,,11.2,41_tayyaba_1.mp4
+41,Tayyaba,,,Haripur,,11.2,41_tayyaba_2.mp4
+42,Yasir,,,Haripur,O+ve,13.4,42_yasir_1.mp4
+42,Yasir,,,Haripur,O+ve,13.4,42_yasir_2.mp4
+43,Aisha,,,Haripur,,11.1,43_aisha_1.mp4
+43,Aisha,,,Haripur,,11.1,43_aisha_2.mp4
+44,Arooj,1.0,20.0,Haripur,,8.0,44_arooj_1.mp4
+44,Arooj,1.0,20.0,Haripur,,8.0,44_arooj_2.mp4
+45,Haris,,,Haripur,A+ve,13.8,45_haris_1.mp4
+45,Haris,,,Haripur,A+ve,13.8,45_haris_2.mp4
+46,Kinza,0.0,16.0,Haripur,,13.3,46_kinza_1.mp4
+46,Kinza,0.0,16.0,Haripur,,13.3,46_kinza_2.mp4
+47,Saima,,,Haripur,,12.2,47_saima_1.mp4
+47,Saima,,,Haripur,,12.2,47_saima_2.mp4
+48,Sameena,,,Haripur,,13.4,48_sameena_1.mp4
+48,Sameena,,,Haripur,,13.4,48_sameena_2.mp4
+49,Shohraib,,,Haripur,O+ve,15.4,49_shohraib_1.mp4
+49,Shohraib,,,Haripur,O+ve,15.4,49_shohraib_2.mp4
+50,Sumaira,,,Haripur,,12.9,50_sumaira_1.mp4
+50,Sumaira,,,Haripur,,12.9,50_sumaira_2.mp4
+51,Kalsoom,1.0,30.0,Haripur,B+ve,10.8,51_kalsoom_1.mp4
+51,Kalsoom,1.0,30.0,Haripur,B+ve,10.8,51_kalsoom_2.mp4
+52,Nazia,1.0,30.0,SNK,A+ve,10.7,52_nazia_1.mp4
+52,Nazia,1.0,30.0,SNK,A+ve,10.7,52_nazia_2.mp4
+53,Sameena,0.0,43.0,Haripur,B+ve,14.0,53_sameena_1.mp4
+53,Sameena,0.0,43.0,Haripur,B+ve,14.0,53_sameena_2.mp4
+54,Afshan,1.0,26.0,Bagra,A+ve,11.5,54_afshan_1.mp4
+54,Afshan,1.0,26.0,Bagra,A+ve,11.5,54_afshan_2.mp4
+55,Zareeda,0.0,50.0,Kar kot Jabri,O+ve,10.3,55_zareeda_1.mp4
+55,Zareeda,0.0,50.0,Kar kot Jabri,O+ve,10.3,55_zareeda_2.mp4
+56,Nadia,1.0,19.0,Sheevan,O+ve,12.0,56_nadia_1.mp4
+56,Nadia,1.0,19.0,Sheevan,O+ve,12.0,56_nadia_2.mp4
+57,Danish,1.0,26.0,Siri kot,O+ve,11.8,57_danish_1.mp4
+57,Danish,1.0,26.0,Siri kot,O+ve,11.8,57_danish_2.mp4
+58,Rehana,1.0,29.0,Haripur,O+ve,11.0,58_rehana_1.mp4
+58,Rehana,1.0,29.0,Haripur,O+ve,11.0,58_rehana_2.mp4
+59,Salma,1.0,28.0,Dar kot jabri,B+ve,12.3,59_salma_1.mp4
+59,Salma,1.0,28.0,Dar kot jabri,B+ve,12.3,59_salma_2.mp4
+60,Jumna,1.0,27.0,Pind Kamal Khan,B+ve,9.3,60_jumna_1.mp4
+60,Jumna,1.0,27.0,Pind Kamal Khan,B+ve,9.3,60_jumna_2.mp4
+61,Raseela,0.0,45.0,Nartopa,B+ve,10.4,61_raseela_1.mp4
+61,Raseela,0.0,45.0,Nartopa,B+ve,10.4,61_raseela_2.mp4
+62,Sameena Afzal,1.0,41.0,Kachi,O+ve,9.0,62_saminaafzal_1.mp4
+62,Sameena Afzal,1.0,41.0,Kachi,O+ve,9.0,62_saminaafzal_2.mp4
+63,Rashida,0.0,40.0,Sawabi Mera,,12.0,63_rashida_1.mp4
+63,Rashida,0.0,40.0,Sawabi Mera,,12.0,63_rashida_2.mp4
+64,Aneela,1.0,24.0,Khalabut,AB+ve,12.6,64_aneela_1.mp4
+64,Aneela,1.0,24.0,Khalabut,AB+ve,12.6,64_aneela_2.mp4
+65,Surriya,1.0,25.0,Noordi,,12.6,65_suriya_1.mp4
+65,Surriya,1.0,25.0,Noordi,,12.6,65_suriya_2.mp4
+66,Shazia,1.0,28.0,Chechian,,9.4,66_shazia_1.mp4
+66,Shazia,1.0,28.0,Chechian,,9.4,66_shazia_2.mp4
+67,Maira,1.0,20.0,Camp,,13.1,67_maira_1.mp4
+67,Maira,1.0,20.0,Camp,,13.1,67_maira_2.mp4
+68,Mehmoona,0.0,47.0,Camp,,9.9,68_mehmoona_1.mp4
+68,Mehmoona,0.0,47.0,Camp,,9.9,68_mehmoona_2.mp4
+69,Nusrat,1.0,35.0,Changi Bandi,AB+ve,12.8,69_nusrat_1.mp4
+69,Nusrat,1.0,35.0,Changi Bandi,AB+ve,12.8,69_nusrat_2.mp4
+70,Muqadas,1.0,19.0,Saraye nemat Khan,A+ve,13.0,70_muqadas_1.mp4
+70,Muqadas,1.0,19.0,Saraye nemat Khan,A+ve,13.0,70_muqadas_2.mp4
+71,Nasreen,0.0,38.0,Dara khanpur,,12.0,71_nasreen_1.mp4
+71,Nasreen,0.0,38.0,Dara khanpur,,12.0,71_nasreen_2.mp4
+72,Huma,1.0,28.0,Dervesh,,12.4,72_huma_1.mp4
+72,Huma,1.0,28.0,Dervesh,,12.4,72_huma_2.mp4
+73,Samreen,0.0,21.0,Gadwalia,,13.9,73_samreen_1.mp4
+73,Samreen,0.0,21.0,Gadwalia,,13.9,73_samreen_2.mp4
+74,Khudija,,32.0,Haripur,,13.0,74_khudija_1.mp4
+74,Khudija,,32.0,Haripur,,13.0,74_khudija_2.mp4
+75,Hina,1.0,22.0,Kag,AB+ve,13.0,75_hina_1.mp4
+75,Hina,1.0,22.0,Kag,AB+ve,13.0,75_hina_2.mp4
+76,Saba,1.0,26.0,Parhari,,11.0,76_saba_1.mp4
+76,Saba,1.0,26.0,Parhari,,11.0,76_saba_2.mp4
+77,Rozia,1.0,30.0,Mera Sawabi,,8.9,77_rozzia_1.mp4
+77,Rozia,1.0,30.0,Mera Sawabi,,8.9,77_rozzia_2.mp4
+78,Iqra,1.0,26.0,Jab,,12.8,78_iqra_1.mp4
+78,Iqra,1.0,26.0,Jab,,12.8,78_iqra_2.mp4
+79,Razia,1.0,23.0,Mera Sawabi,,9.0,79_razia_1.mp4
+79,Razia,1.0,23.0,Mera Sawabi,,9.0,79_razia_2.mp4
+80,Kalsoom,1.0,32.0,Gamawa,AB+ve,11.0,80_kalsoom_1.mp4
+80,Kalsoom,1.0,32.0,Gamawa,AB+ve,11.0,80_kalsoom_2.mp4
+81,Yousaf Jan,0.0,70.0,Changi Bandi,,12.5,81_yousafjan_1.mp4
+81,Yousaf Jan,0.0,70.0,Changi Bandi,,12.5,81_yousafjan_2.mp4
+82,Shazia,1.0,32.0,Haripur,B+ve,13.8,82_shaziaa_1.mp4
+82,Shazia,1.0,32.0,Haripur,B+ve,13.8,82_shaziaa_2.mp4
+83,Kastoori,1.0,32.0,Mera Sawabi,,9.4,83_kastoori_1.mp4
+83,Kastoori,1.0,32.0,Mera Sawabi,,9.4,83_kastoori_2.mp4
+84,Javeria,1.0,26.0,Paniyan,O+ve,9.8,84_javeria_1.mp4
+84,Javeria,1.0,26.0,Paniyan,O+ve,9.8,84_javeria_2.mp4
+85,Ayesha,1.0,28.0,Sikander Pur,O-ve,9.2,85_ayesha_1.mp4
+85,Ayesha,1.0,28.0,Sikander Pur,O-ve,9.2,85_ayesha_2.mp4
+86,Ayesha,1.0,34.0,Kangra,A+ve,12.6,86_ayeshaa_1.mp4
+86,Ayesha,1.0,34.0,Kangra,A+ve,12.6,86_ayeshaa_2.mp4
+87,Muneeba,1.0,27.0,Doiyan,A+ve,12.0,87_muneeba_1.mp4
+87,Muneeba,1.0,27.0,Doiyan,A+ve,12.0,87_muneeba_2.mp4
+88,Sapeena,1.0,28.0,Minkiara,,13.0,88_sapeena_1.mp4
+88,Sapeena,1.0,28.0,Minkiara,,13.0,88_sapeena_2.mp4
+89,Nazo,1.0,35.0,Camp,,9.5,89_nazo_1.mp4
+89,Nazo,1.0,35.0,Camp,,9.5,89_nazo_2.mp4
+90,Irum,1.0,30.0,Pahari,O-ve,12.0,90_irum_1.mp4
+90,Irum,1.0,30.0,Pahari,O-ve,12.0,90_irum_2.mp4
+91,Khiyal Meena,1.0,25.0,Barwal,B+ve,12.2,91_khiyalmeena_1.mp4
+91,Khiyal Meena,1.0,25.0,Barwal,B+ve,12.2,91_khiyalmeena_2.mp4
+92,Kainat,1.0,25.0,Bandi Mehra,O+ve,10.9,92_kainat_1.mp4
+92,Kainat,1.0,25.0,Bandi Mehra,O+ve,10.9,92_kainat_2.mp4
+93,Iqra,1.0,25.0,Ali Khan,O+ve,12.9,93_iqraa_1.mp4
+93,Iqra,1.0,25.0,Ali Khan,O+ve,12.9,93_iqraa_2.mp4
+94,Seema,1.0,26.0,Bandi Mehra,,12.0,94_seema_1.mp4
+94,Seema,1.0,26.0,Bandi Mehra,,12.0,94_seema_2.mp4
+95,Saima,1.0,29.0,Haripur,B+ve,11.9,95_saima_1.mp4
+95,Saima,1.0,29.0,Haripur,B+ve,11.9,95_saima_2.mp4
+96,Ayesha,0.0,40.0,Haripur,O+ve,9.5,96_ayeshaaa_1.mp4
+96,Ayesha,0.0,40.0,Haripur,O+ve,9.5,96_ayeshaaa_2.mp4
+97,Maria,1.0,27.0,Dobandi,A+ve,10.7,97_maria_1.mp4
+97,Maria,1.0,27.0,Dobandi,A+ve,10.7,97_maria_2.mp4
+98,Huma,1.0,34.0,Bagra,A+ve,10.1,98_humma_1.mp4
+98,Huma,1.0,34.0,Bagra,A+ve,10.1,98_humma_2.mp4
+99,Sana,1.0,20.0,Kalu Pind,,12.5,99_sana_1.mp4
+99,Sana,1.0,20.0,Kalu Pind,,12.5,99_sana_2.mp4
+100,Waheeda,0.0,34.0,Haripur,O+ve,14.4,100_waheeda_1.mp4
+100,Waheeda,0.0,34.0,Haripur,O+ve,14.4,100_waheeda_2.mp4
+101,Mehwish,1.0,30.0,Kot Najibullah,O-ve,12.4,101_mehwish_1.mp4
+101,Mehwish,1.0,30.0,Kot Najibullah,O-ve,12.4,101_mehwish_2.mp4
+102,Khudija,0.0,32.0,Roshan Abad,,13.8,102_khudijaa_1.mp4
+102,Khudija,0.0,32.0,Roshan Abad,,13.8,102_khudijaa_2.mp4
+103,Nosheen,1.0,29.0,Haripur,AB+ve,10.8,103_nosheen_1.mp4
+103,Nosheen,1.0,29.0,Haripur,AB+ve,10.8,103_nosheen_2.mp4
+104,Khatima,1.0,22.0,Camp,AB+ve,9.2,104_khatima_1.mp4
+104,Khatima,1.0,22.0,Camp,AB+ve,9.2,104_khatima_2.mp4
+105,Nighat,,32.0,Seri Kot,,13.0,105_nighat_1.mp4
+105,Nighat,,32.0,Seri Kot,,13.0,105_nighat_2.mp4
+106,Sahrish,1.0,31.0,Paniyan,B+ve,12.6,106_sahrish_1.mp4
+106,Sahrish,1.0,31.0,Paniyan,B+ve,12.6,106_sahrish_2.mp4
+107,Ayeshi,,36.0,Kot Najibullah,,11.7,107_ayeshi_1.mp4
+107,Ayeshi,,36.0,Kot Najibullah,,11.7,107_ayeshi_2.mp4
+108,Zainab,1.0,25.0,Kalbala,A+ve,11.3,108_zainab_1.mp4
+108,Zainab,1.0,25.0,Kalbala,A+ve,11.3,108_zainab_2.mp4
+109,Gul Afham,,30.0,Gadwalia,A+ve,11.2,109_gulafham_1.mp4
+109,Gul Afham,,30.0,Gadwalia,A+ve,11.2,109_gulafham_2.mp4
+110,Boorgai,1.0,25.0,Haripur,,11.1,110_boorgai_1.mp4
+110,Boorgai,1.0,25.0,Haripur,,11.1,110_boorgai_2.mp4
+111,Rukhsana,1.0,34.0,Nartopa,,14.2,111_ruksana_1.mp4
+111,Rukhsana,1.0,34.0,Nartopa,,14.2,111_ruksana_2.mp4
+112,Nosheen,1.0,30.0,Haripur,,15.2,112_nosheen_1.mp4
+112,Nosheen,1.0,30.0,Haripur,,15.2,112_nosheen_2.mp4
+113,Ransa,1.0,22.0,Swabi Mera,,10.6,113_ransa_1.mp4
+113,Ransa,1.0,22.0,Swabi Mera,,10.6,113_ransa_2.mp4
+114,Kajal,1.0,27.0,Saraye nemat Khan,A+ve,12.3,114_kajal_1.mp4
+114,Kajal,1.0,27.0,Saraye nemat Khan,A+ve,12.3,114_kajal_2.mp4
+115,Gul Nasreen,0.0,56.0,Saraye Pandoori,,13.6,115_gulnasreen_1.mp4
+115,Gul Nasreen,0.0,56.0,Saraye Pandoori,,13.6,115_gulnasreen_2.mp4
+116,Omama,0.0,3.5,Haripur,B+ve,12.4,116_omama_1.mp4
+116,Omama,0.0,3.5,Haripur,B+ve,12.4,116_omama_2.mp4
+117,Safeena,0.0,50.0,Kot Najibullah,O+ve,14.6,117_safeena_1.mp4
+117,Safeena,0.0,50.0,Kot Najibullah,O+ve,14.6,117_safeena_2.mp4
+118,Amreen,1.0,30.0,Makna,,9.4,118_amreen_1.mp4
+118,Amreen,1.0,30.0,Makna,,9.4,118_amreen_2.mp4
+119,Naila,1.0,20.0,Mang,O+ve,12.5,119_naila_1.mp4
+119,Naila,1.0,20.0,Mang,O+ve,12.5,119_naila_2.mp4
+120,Amna,1.0,35.0,Chama Pind,B+ve,12.3,120_amina_1.mp4
+120,Amna,1.0,35.0,Chama Pind,B+ve,12.3,120_amina_2.mp4
+121,Amrazia,1.0,40.0,Bheer,A+ve,11.3,121_amrazia_1.mp4
+121,Amrazia,1.0,40.0,Bheer,A+ve,11.3,121_amrazia_2.mp4
+122,Nazia,0.0,40.0,Haripur,,11.6,122_nazia_1.mp4
+122,Nazia,0.0,40.0,Haripur,,11.6,122_nazia_2.mp4
+123,Tazeem,1.0,35.0,Haripur,,12.2,123_tazeem_1.mp4
+123,Tazeem,1.0,35.0,Haripur,,12.2,123_tazeem_2.mp4
+124,Maryam,0.0,5.0,Haripur,,12.9,124_maryam_1.mp4
+124,Maryam,0.0,5.0,Haripur,,12.9,124_maryam_2.mp4
+125,Husnain,0.0,4.5,Haripur,,13.3,125_husnain_1.mp4
+125,Husnain,0.0,4.5,Haripur,,13.3,125_husnain_2.mp4
+126,Ayesha,0.0,31.0,Haripur,B+ve,12.5,126_ayesha_1.mp4
+126,Ayesha,0.0,31.0,Haripur,B+ve,12.5,126_ayesha_2.mp4
+127,Khansa,1.0,28.0,Haripur,B+ve,11.2,127_khansa_1.mp4
+127,Khansa,1.0,28.0,Haripur,B+ve,11.2,127_khansa_2.mp4
+128,Rabia,1.0,25.0,Saraye nemat Khan,O+ve,12.4,128_rabia_1.mp4
+128,Rabia,1.0,25.0,Saraye nemat Khan,O+ve,12.4,128_rabia_2.mp4
+129,Nageena,0.0,47.0,Haripur,O+ve,13.0,129_Nageena_1.mp4
+129,Nageena,0.0,47.0,Haripur,O+ve,13.0,129_Nageena_2.mp4
+130,Malaika,0.0,17.0,Haripur,O+ve,13.1,130_malaika_1.mp4
+130,Malaika,0.0,17.0,Haripur,O+ve,13.1,130_malaika_2.mp4
+131,Sabia,1.0,26.0,Haripur,O+ve,12.1,131_aabia_1.mp4
+131,Sabia,1.0,26.0,Haripur,O+ve,12.1,131_aabia_2.mp4
+132,Jameela,0.0,67.0,Sarai,,14.1,132_jamila_1.mp4
+132,Jameela,0.0,67.0,Sarai,,14.1,132_jamila_2.mp4
+133,Rimsha,0.0,35.0,Melan,A+ve,13.2,133_rimsha_1.mp4
+133,Rimsha,0.0,35.0,Melan,A+ve,13.2,133_rimsha_2.mp4
+134,Rubab,1.0,22.0,Haripur,B+ve,12.1,134_rubab_1.mp4
+134,Rubab,1.0,22.0,Haripur,B+ve,12.1,134_rubab_2.mp4
+135,Azeema,0.0,30.0,Swabi Mera,B+ve,11.7,135_azeema_1.mp4
+135,Azeema,0.0,30.0,Swabi Mera,B+ve,11.7,135_azeema_2.mp4
+136,Farzana,1.0,35.0,Kalinjar,,12.9,136_farzana_1.mp4
+136,Farzana,1.0,35.0,Kalinjar,,12.9,136_farzana_2.mp4
+137,Sidra,1.0,27.0,Saraye Salah,AB+ve,12.3,137_sidra_1.mp4
+137,Sidra,1.0,27.0,Saraye Salah,AB+ve,12.3,137_sidra_2.mp4
+138,Sumbal,0.0,30.0,Hattar,,14.1,138_sumbal_1.mp4
+138,Sumbal,0.0,30.0,Hattar,,14.1,138_sumbal_2.mp4
+139,Zarmeena,1.0,18.0,Kangra,AB+ve,11.6,139_zarmeena_1.mp4
+139,Zarmeena,1.0,18.0,Kangra,AB+ve,11.6,139_zarmeena_2.mp4
+140,Zareeda,0.0,55.0,Jabri,,13.1,140_zareeda_1.mp4
+140,Zareeda,0.0,55.0,Jabri,,13.1,140_zareeda_2.mp4
+141,Sana,1.0,26.0,Haripur,A+ve,10.1,141_sana_1.mp4
+141,Sana,1.0,26.0,Haripur,A+ve,10.1,141_sana_2.mp4
+142,Hira,1.0,33.0,Saraye nemat Khan,A+ve,12.6,142_hira_1.mp4
+142,Hira,1.0,33.0,Saraye nemat Khan,A+ve,12.6,142_hira_2.mp4
+143,Aqsa,1.0,22.0,Jabri,,11.6,143_aqsa_1.mp4
+143,Aqsa,1.0,22.0,Jabri,,11.6,143_aqsa_2.mp4
+144,Madiha,1.0,23.0,Islamabad,B+ve,13.1,144_madiha_1.mp4
+144,Madiha,1.0,23.0,Islamabad,B+ve,13.1,144_madiha_2.mp4
+145,Fatima,0.0,16.0,Haripur,,13.4,145_fatima_1.mp4
+145,Fatima,0.0,16.0,Haripur,,13.4,145_fatima_2.mp4
+146,Misbah,0.0,50.0,Haripur,,13.7,146_misbah_1.mp4
+146,Misbah,0.0,50.0,Haripur,,13.7,146_misbah_2.mp4
+147,Razia,1.0,23.0,Sawabi Mera,,10.6,147_razia_1.mp4
+147,Razia,1.0,23.0,Sawabi Mera,,10.6,147_razia_2.mp4
+148,Asma,1.0,23.0,Haripur,B+ve,9.8,148_asma_1.mp4
+148,Asma,1.0,23.0,Haripur,B+ve,9.8,148_asma_2.mp4
+149,Laraib,1.0,18.0,Sarai Kot,O+ve,9.9,149_laraib_1.mp4
+149,Laraib,1.0,18.0,Sarai Kot,O+ve,9.9,149_laraib_2.mp4
+150,Arouba,0.0,17.0,Haripur,,9.4,150_arouba_1.mp4
+150,Arouba,0.0,17.0,Haripur,,9.4,150_arouba_2.mp4
+151,Gul Bena,0.0,42.0,Haripur,B-ve,12.6,151_gulbena_1.mp4
+151,Gul Bena,0.0,42.0,Haripur,B-ve,12.6,151_gulbena_2.mp4
+152,Afsheen,1.0,23.0,Bandi Mehra,B+ve,13.0,152_afsheen_1.mp4
+152,Afsheen,1.0,23.0,Bandi Mehra,B+ve,13.0,152_afsheen_2.mp4
+153,Kinza,1.0,21.0,Seri Kot,,11.8,153_kinza_1.mp4
+153,Kinza,1.0,21.0,Seri Kot,,11.8,153_kinza_2.mp4
+154,Maqbool Jan,0.0,55.0,Haripur,,11.9,154_maqbooljan_1.mp4
+154,Maqbool Jan,0.0,55.0,Haripur,,11.9,154_maqbooljan_2.mp4
+155,Jameela,1.0,33.0,Chechian,A+ve,9.8,155_jameela_1.mp4
+155,Jameela,1.0,33.0,Chechian,A+ve,9.8,155_jameela_2.mp4
+156,Almas Eman,0.0,18.0,Kot Najibullah,A-ve,14.1,156_almaseman_1.mp4
+156,Almas Eman,0.0,18.0,Kot Najibullah,A-ve,14.1,156_almaseman_2.mp4
+157,Nabeela,0.0,26.0,Bandi Mehra,,12.0,157_nabeela_1.mp4
+157,Nabeela,0.0,26.0,Bandi Mehra,,12.0,157_nabeela_2.mp4
+158,Rumaisa,0.0,12.0,Meelam,,13.1,158_rumaisa_1.mp4
+158,Rumaisa,0.0,12.0,Meelam,,13.1,158_rumaisa_2.mp4
+159,Romaisa,0.0,20.0,KTS,B+ve,11.6,159_romaisa_1.mp4
+159,Romaisa,0.0,20.0,KTS,B+ve,11.6,159_romaisa_2.mp4
+160,Shazia,0.0,27.0,Haripur,A+ve,13.1,160_shazia_1.mp4
+160,Shazia,0.0,27.0,Haripur,A+ve,13.1,160_shazia_2.mp4
+161,Sadia,1.0,25.0,Sikander Pur,B+ve,11.2,161_sadia_1.mp4
+161,Sadia,1.0,25.0,Sikander Pur,B+ve,11.2,161_sadia_2.mp4
+162,Omama,0.0,5.0,KTS,,13.1,162_omamaa_1.mp4
+162,Omama,0.0,5.0,KTS,,13.1,162_omamaa_2.mp4
+163,Nafeesa,1.0,26.0,Camp,A+ve,10.1,163_nafeesa_1.mp4
+163,Nafeesa,1.0,26.0,Camp,A+ve,10.1,163_nafeesa_2.mp4
+164,Mehmoona,0.0,14.0,Mori,,13.1,164_mehmoona_1.mp4
+164,Mehmoona,0.0,14.0,Mori,,13.1,164_mehmoona_2.mp4
+165,Almas,0.0,9.0,Gadwalia,,12.7,165_almas_1.mp4
+165,Almas,0.0,9.0,Gadwalia,,12.7,165_almas_2.mp4
+166,Ayesha,1.0,18.0,Haripur,A+ve,11.7,166_ayeshaa_1.mp4
+166,Ayesha,1.0,18.0,Haripur,A+ve,11.7,166_ayeshaa_2.mp4
+167,Kashaf,1.0,29.0,Haripur,AB+ve,10.2,167_kashaf_1.mp4
+167,Kashaf,1.0,29.0,Haripur,AB+ve,10.2,167_kashaf_2.mp4
+168,Arsh,0.0,4.0,Haripur,,11.2,168_arsh_1.mp4
+168,Arsh,0.0,4.0,Haripur,,11.2,168_arsh_2.mp4
+169,Sobia,1.0,30.0,Najif Pur,O+ve,10.5,169_sobia_1.mp4
+169,Sobia,1.0,30.0,Najif Pur,O+ve,10.5,169_sobia_2.mp4
+170,Iqra,1.0,25.0,Sirya,AB-ve,10.1,170_iqra_1.mp4
+170,Iqra,1.0,25.0,Sirya,AB-ve,10.1,170_iqra_2.mp4
+171,Hajra,0.0,25.0,Pind Kamal Khan,B+ve,8.7,171_hajira_1.mp4
+171,Hajra,0.0,25.0,Pind Kamal Khan,B+ve,8.7,171_hajira_2.mp4
+172,Misbah,1.0,26.0,Kangra,A+ve,11.0,172_misbaa_1.mp4
+172,Misbah,1.0,26.0,Kangra,A+ve,11.0,172_misbaa_2.mp4
+173,Rozi,0.0,32.0,Kholia Balla,O+ve,15.1,173_rozi_1.mp4
+173,Rozi,0.0,32.0,Kholia Balla,O+ve,15.1,173_rozi_2.mp4
+174,Madia,1.0,28.0,Kala MP,A+ve,9.4,174_madia_1.mp4
+174,Madia,1.0,28.0,Kala MP,A+ve,9.4,174_madia_2.mp4
+175,Razwana,1.0,30.0,Chechian,O+ve,11.3,175_razwana_1.mp4
+175,Razwana,1.0,30.0,Chechian,O+ve,11.3,175_razwana_2.mp4
+176,Raziaa,0.0,36.0,Haripur,,12.4,176_raziaa_1.mp4
+176,Raziaa,0.0,36.0,Haripur,,12.4,176_raziaa_2.mp4
+177,Nazia,1.0,28.0,Mansehra,,10.9,177_naziaa_1.mp4
+177,Nazia,1.0,28.0,Mansehra,,10.9,177_naziaa_2.mp4
+178,Shaheen,1.0,35.0,Teer,B+ve,12.0,178_shaheen_1.mp4
+178,Shaheen,1.0,35.0,Teer,B+ve,12.0,178_shaheen_2.mp4
+179,Zainab,1.0,38.0,Sarai Kot,AB+ve,11.0,179_zainab_1.mp4
+179,Zainab,1.0,38.0,Sarai Kot,AB+ve,11.0,179_zainab_2.mp4
+180,Saira,1.0,27.0,Kalu Pind,,8.5,180_saira_1.mp4
+180,Saira,1.0,27.0,Kalu Pind,,8.5,180_saira_2.mp4
+181,Sairaa,0.0,39.0,Haripur,,7.3,181_sairaa_1.mp4
+181,Sairaa,0.0,39.0,Haripur,,7.3,181_sairaa_2.mp4
+182,Hira,0.0,40.0,KTS,O+ve,12.2,182_hiraa_1.mp4
+182,Hira,0.0,40.0,KTS,O+ve,12.2,182_hiraa_2.mp4
+183,Aneesa,1.0,24.0,Danya,O+ve,10.4,183_aneesa_1.mp4
+183,Aneesa,1.0,24.0,Danya,O+ve,10.4,183_aneesa_2.mp4
+184,Naila,1.0,30.0,KTS,O+ve,11.2,184_nailaa_1.mp4
+184,Naila,1.0,30.0,KTS,O+ve,11.2,184_nailaa_2.mp4
+185,Nazia,0.0,45.0,Bal Gaon,,13.3,185_naziaaa_1.mp4
+185,Nazia,0.0,45.0,Bal Gaon,,13.3,185_naziaaa_2.mp4
+186,Sumbhal,1.0,23.0,Darwaish,AB+ve,11.3,186_sumbhal_1.mp4
+186,Sumbhal,1.0,23.0,Darwaish,AB+ve,11.3,186_sumbhal_2.mp4
+187,Noshin,1.0,24.0,Jallal,O+ve,8.2,187_noshin_1.mp4
+187,Noshin,1.0,24.0,Jallal,O+ve,8.2,187_noshin_2.mp4
+188,Maria,0.0,20.0,Pind Kamal Khan,O+ve,10.8,188_mariaa_1.mp4
+188,Maria,0.0,20.0,Pind Kamal Khan,O+ve,10.8,188_mariaa_2.mp4
+189,Huma,1.0,34.0,Bagra,A+ve,9.1,189_huma_1.mp4
+189,Huma,1.0,34.0,Bagra,A+ve,9.1,189_huma_2.mp4
+190,Farzana,1.0,27.0,Mang,O+ve,12.4,190_farzanaa_1.mp4
+190,Farzana,1.0,27.0,Mang,O+ve,12.4,190_farzanaa_2.mp4
+191,Meshal,0.0,23.0,Kholia Balla,O+ve,12.3,191_mishal_1.mp4
+191,Meshal,0.0,23.0,Kholia Balla,O+ve,12.3,191_mishal_2.mp4
+192,Noor bibi,0.0,25.0,Camp,,11.7,192_noorbibi_1.mp4
+192,Noor bibi,0.0,25.0,Camp,,11.7,192_noorbibi_2.mp4
+193,Shazia,1.0,23.0,Chechian,O+ve,11.6,193_shaziaa_1.mp4
+193,Shazia,1.0,23.0,Chechian,O+ve,11.6,193_shaziaa_2.mp4
+194,Taiba,0.0,24.0,Kag,B+ve,13.6,194_taiba_1.mp4
+194,Taiba,0.0,24.0,Kag,B+ve,13.6,194_taiba_2.mp4
+195,Talal,0.0,6.0,Bandi Mehra,,12.6,195_talal_1.mp4
+195,Talal,0.0,6.0,Bandi Mehra,,12.6,195_talal_2.mp4
+196,Zaibi,0.0,5.0,Saraye nemat Khan,,10.9,196_zaibi_1.mp4
+196,Zaibi,0.0,5.0,Saraye nemat Khan,,10.9,196_zaibi_2.mp4
+197,Hina,0.0,24.0,Paniyan,,13.8,197_hina_1.mp4
+197,Hina,0.0,24.0,Paniyan,,13.8,197_hina_2.mp4
+198,Mazydara,0.0,40.0,Haripur,,10.5,198_mazydara_1.mp4
+198,Mazydara,0.0,40.0,Haripur,,10.5,198_mazydara_2.mp4
+199,Mehran,0.0,10.0,Saraye nemat Khan,,12.3,199_mehraan_1.mp4
+199,Mehran,0.0,10.0,Saraye nemat Khan,,12.3,199_mehraan_2.mp4
+200,Noor Bakhta,1.0,25.0,Camp,,10.7,200_noorbakhta_1.mp4
+200,Noor Bakhta,1.0,25.0,Camp,,10.7,200_noorbakhta_2.mp4
+201,Aneela,0.0,33.0,Doyiaan,A+ve,11.5,201_aneela_1.mp4
+201,Aneela,0.0,33.0,Doyiaan,A+ve,11.5,201_aneela_2.mp4
+202,Zainab,1.0,28.0,Mori,A+ve,11.7,202_zainabb_1.mp4
+202,Zainab,1.0,28.0,Mori,A+ve,11.7,202_zainabb_2.mp4
+203,Aman,1.0,20.0,Mori,B+ve,9.9,203_aman_1.mp4
+203,Aman,1.0,20.0,Mori,B+ve,9.9,203_aman_2.mp4
+204,Badar Jamal,1.0,30.0,Camp,A+ve,9.9,204_badarjamal_1.mp4
+204,Badar Jamal,1.0,30.0,Camp,A+ve,9.9,204_badarjamal_2.mp4
+205,Bushra,1.0,26.0,Khanpur,A+ve,10.7,205_bushraa_1.mp4
+205,Bushra,1.0,26.0,Khanpur,A+ve,10.7,205_bushraa_2.mp4
+206,Durkhanay,1.0,30.0,Camp,,9.8,206_durkhany_1.mp4
+206,Durkhanay,1.0,30.0,Camp,,9.8,206_durkhany_2.mp4
